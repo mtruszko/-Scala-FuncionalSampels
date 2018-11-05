@@ -1,1 +1,3 @@
-NBDcw1
+## Scala Funcional samples
+
+[Task](NBDCwiczenia1.pdf)
